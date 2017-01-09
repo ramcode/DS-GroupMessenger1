@@ -1,0 +1,6 @@
+/home/ramesh/Projects/CSE-586-DS/GroupMessenger1/app/build/intermediates/classes/debug
+/home/ramesh/Projects/CSE-586-DS/GroupMessenger1/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-e0e13392fc0faf0bfedb90f6f92b79146201f16a.jar
+/home/ramesh/Projects/CSE-586-DS/GroupMessenger1/app/build/intermediates/pre-dexed/debug/classes-152c7b9b2f8a51c85fd9b898d609121a3840de0b.jar
+/home/ramesh/Projects/CSE-586-DS/GroupMessenger1/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-e3a21f776d8e76d86a0c8228aeecdfc436f1e507.jar
+/home/ramesh/Projects/CSE-586-DS/GroupMessenger1/app/build/intermediates/pre-dexed/debug/classes-27216baaebe1ca16729046dd3273604754fae838.jar
+/home/ramesh/Projects/CSE-586-DS/GroupMessenger1/app/build/intermediates/pre-dexed/debug/classes-7fda9262ef3b35a98d3ce08a4d6a17e88fa4bffc.jar
