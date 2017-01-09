@@ -1,4 +1,4 @@
 # DS-GroupMessenger1
-Simple Messenger app on Android
+Group Messenger app on Android  Local Persistent Key-Value Strage
 
-A simple messenger app on Android. The goal of this app is to enable two Android devices to send messages to each other.
+A Group Messenger app with a Local Persistent Key-Value Table. This app enables AVD device to send messages to multiple AVDs and store them in a permanent key-value storage.
